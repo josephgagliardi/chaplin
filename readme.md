@@ -1,3 +1,14 @@
+       e88'Y88 888                      888 ,e,        
+      d888  'Y 888 ee   ,"Y88b 888 88e  888  "  888 8e 
+    C8888     888 88b "8" 888 888 888b 888 888 888 88b
+     Y888  ,d 888 888 ,ee 888 888 888P 888 888 888 888
+      "88,d88 888 888 "88 888 888 88"  888 888 888 888
+                          888                     
+                          888
+
+<img src="https://s-media-cache-ak0.pinimg.com/originals/d8/0b/f3/d80bf306029247f3b5f5208dbfd11c93.png" style="width: 200px; float: right;">
+
+
 Chaplin is a local virtual environment built with Vagrant designed to let developers render beautiful and useful analytics reports from static server logs using GoAccess.
 
 # Setup
@@ -29,7 +40,7 @@ Chaplin is a local virtual environment built with Vagrant designed to let develo
 **Build reports**
 ```chaplin-build```
 
-** Add new users** 
+**Add new users** 
 ```chaplin-authorize <username>```
 
 **Permissions used Apache htpasswd**

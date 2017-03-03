@@ -5,7 +5,11 @@ Vagrant.configure("2") do |config|
     config.vm.hostname = "chaplin"
     config.vm.synced_folder ".", "/var/www", :mount_options => ["dmode=777", "fmode=666"]
 
+
+
     # config.vm.provision "analyze", run: "always", privileged: false, type: "shell" do |s|
     #   s.inline = "chaplin-build"
     # end
+    # 
+   
 end
