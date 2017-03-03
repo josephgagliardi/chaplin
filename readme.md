@@ -14,7 +14,7 @@ Chaplin is a local virtual environment built with Vagrant designed to let develo
 
 **4. Run Vagrant up**
 
-**4. View site**
+**5. View site**
 ```http://192.168.33.10```
 
 **5. Login to view reports**
@@ -23,7 +23,7 @@ Chaplin is a local virtual environment built with Vagrant designed to let develo
 
 # Other tips
 
-** Share with others**
+**Share with others**
 ```vagrant share```
 
 **Modify permission using Apache htpasswd**
