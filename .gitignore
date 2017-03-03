@@ -1,3 +1,4 @@
 .DS_STORE
 .vagrant
 *.box
+public/report.html
