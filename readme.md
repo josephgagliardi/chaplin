@@ -9,6 +9,8 @@
 
 Chaplin is a local virtual environment built with Vagrant designed to let developers render beautiful and useful analytics reports from static server logs using GoAccess.
 
+
+
 # Setup
 
 **1. Clone repo**
@@ -38,9 +40,12 @@ Chaplin is a local virtual environment built with Vagrant designed to let develo
 
 ### Other tips
 
+# Note: Stay on Vagrant 1.8.5 to ensure Sharing works https://releases.hashicorp.com/vagrant/1.8.5/ 
+
 **Share with others**
 
 ```vagrant share ```
+
 
 **Build reports**
 
