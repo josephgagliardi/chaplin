@@ -6,7 +6,8 @@
                           888                     
                           888
 
-<img src="https://s-media-cache-ak0.pinimg.com/originals/d8/0b/f3/d80bf306029247f3b5f5208dbfd11c93.png" style="width: 200px; float: right;">
+<span style="float: right; width: 200px;">
+![Alt text](https://s-media-cache-ak0.pinimg.com/originals/d8/0b/f3/d80bf306029247f3b5f5208dbfd11c93.png)</span>
 
 
 Chaplin is a local virtual environment built with Vagrant designed to let developers render beautiful and useful analytics reports from static server logs using GoAccess.
