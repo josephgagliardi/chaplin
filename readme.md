@@ -26,10 +26,15 @@ Chaplin is a local virtual environment built with Vagrant designed to let develo
 **Share with others**
 ```vagrant share```
 
-**Modify permission using Apache htpasswd**
+**Build reports**
+```chaplin-build```
+
+** Add new users** 
+```chaplin-authorize <username>```
+
+**Permissions used Apache htpasswd**
 - Username/Passwords are stored as key-value pairs in /etc/apache2/.htpasswd
 - Empty this file of its contents to revoke access of default account
-- Add new users by running ```sudo htpasswd /etc/apache2/.htpasswd another_user```
-- Note that if you remove the file entirely versus merely removing its contents you will need to run the command with the -c flag to recreate the file
+- Note that if you remove the file entirely versus merely removing its contents you will need to run 
 ```sudo htpasswd -c /etc/apache2/.htpasswd charlie```
 
