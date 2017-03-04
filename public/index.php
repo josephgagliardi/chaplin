@@ -10,13 +10,14 @@
     <meta charset="utf-8">
     <!--
 
-    e88'Y88 888                      888 ,e,                   -+syys/.             
-  d888  'Y 888 ee   ,"Y88b 888 88e  888  "  888 8e          +NMMMMMMMMd-                
-C8888     888 88b "8" 888 888 888b 888 888 888 88b         yMMMMMMMMMMMM:              
- Y888  ,d 888 888 ,ee 888 888 888P 888 888 888 888        .MMMMMMMMMMMMMd                
-  "88,d88 888 888 "88 888 888 88"  888 888 888 888        -MMMMMMMMMMMMMd                
-                      888                               +yhMMMMMMMMMMMMMNyy/             
-                      888                               -//////////////////.              
+    e88'Y88 888                      888 ,e,                   
+  d888  'Y 888 ee   ,"Y88b 888 88e  888  "  888 8e          
+C8888     888 88b "8" 888 888 888b 888 888 888 88b         
+ Y888  ,d 888 888 ,ee 888 888 888P 888 888 888 888        
+  "88,d88 888 888 "88 888 888 88"  888 888 888 888        
+                      888                               
+                      888                               
+  
     -->
     <title>Chaplin</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -25,7 +26,7 @@ C8888     888 88b "8" 888 888 888b 888 888 888 88b         yMMMMMMMMMMMM:
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
     <!-- Favicons -->
-    <!-- <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="http://scotch.io/favicon.ico"> -->
+    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="chaplin-logo.ico">
 
     <!-- Styles -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
